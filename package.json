@@ -1,12 +1,13 @@
 {
   "name": "chat-io",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple chat client using socket.io based on the official examplo by Grant Timmerman",
   "main": "index.js",
   "author": "Yago Ferro",
   "private": true,
   "license": "BSD",
   "dependencies": {
-    "express": "3.4.8"
+    "express": "3.4.8",
+    "socket.io": "^1.3.6"
   }
 }
